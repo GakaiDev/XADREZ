@@ -1,0 +1,4 @@
+Para iniciar o jogo deve-se executar o arquivo ChessMain.py
+para escolher se quer jogar contra a máquina basta ir nas linhas de código 45 e 46 do ChessMain e selecionar entre True e False.
+O software ainda não está completo então é possivel ocorrer alguns erros durante sua execução.
+O jogo se encerra ao fechar a página ou quando algum jogador não possuir mais movimentos possíveis para fazer, caracterizando um checkmate.
